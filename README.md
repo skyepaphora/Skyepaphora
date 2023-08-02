@@ -2,9 +2,9 @@
 
 👀 I’m interested in: Math & Statistics; Education
 
-🌱 I’m currently a PhD student studying Statistics at Queen's University.  
+🌱 I’m currently a PhD student studying Statistics at Queen's University
 
-🧠 I specialize in Time Series Analysis and Spectrum Estimation, with a current focus on the Multitaper framework.
+🧠 I specialize in Time Series Analysis and Spectrum Estimation, with a current focus on D.J. Thomson's Multitaper framework
 
 📫 How to reach me: 
     EMAIL: skye.griffith@queensu.ca; 
