@@ -1,6 +1,6 @@
 👋 Hi, I’m @Skyepaphora-Griffith
 
-👀 I’m interested in: Math & Statistics; Education
+👀 I’m interested in: Math & Statistics; Stats Education
 
 🌱 I’m currently a PhD student studying Statistics at Queen's University
 
