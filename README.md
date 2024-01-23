@@ -7,7 +7,7 @@
 🧠 I specialize in Time Series & Spectrum Estimation, with a current focus on D.J. Thomson's Multitaper framework
 
 📫 How to reach me: 
-- EMAIL: skye.griffith@queensu.ca;
+- Email: skye.griffith@queensu.ca;
 - LinkedIn: [Skyepaphora Griffith](https://www.linkedin.com/in/skyepaphora/)
 
 <!---
