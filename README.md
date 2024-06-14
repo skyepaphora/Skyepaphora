@@ -1,15 +1,16 @@
 👋 Hi, I’m @Skyepaphora-Griffith
 
-👀 I’m interested in: Math & Statistics; Time Series; Spectrum Estimation; Stats Education
+👀 I’m interested in: Math & Statistics; Stats Education
 
 🌱 I’m currently a PhD student studying Statistics at Queen's University
 
 🧠 I specialize in Time Series & Spectrum Estimation, with a current focus on D.J. Thomson's Multitaper framework
 
-📫 How to reach me: 
-- Email: skye.griffith@queensu.ca;
-- LinkedIn: [Skyepaphora Griffith](https://www.linkedin.com/in/skyepaphora/)
-- Instagram: [Skyepaphora](https://www.instagram.com/skyepaphora/)
+| 📫 How to reach me | |
+| :---|:---------|
+| Email | skye.griffith@queensu.ca |
+| LinkedIn |  [Skyepaphora Griffith](https://www.linkedin.com/in/skyepaphora/) |
+| Instagram | [Skyepaphora](https://www.instagram.com/skyepaphora/) |
 
 <!---
 Skyepaphora-Griffith/Skyepaphora-Griffith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
