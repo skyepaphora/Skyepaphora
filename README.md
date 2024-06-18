@@ -10,7 +10,9 @@
 | :---|:---------|
 | Email | skye.griffith@queensu.ca |
 | LinkedIn |  [Skyepaphora Griffith](https://www.linkedin.com/in/skyepaphora/) |
-| Instagram | [Skyepaphora](https://www.instagram.com/skyepaphora/) |
+
+
+<!---| Instagram | [Skyepaphora](https://www.instagram.com/skyepaphora/) |--->
 
 <!---
 Skyepaphora-Griffith/Skyepaphora-Griffith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
