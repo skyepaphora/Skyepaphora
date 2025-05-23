@@ -1,4 +1,4 @@
-👋 Hi, I’m @Skyepaphora-Griffith
+👋 Hi, I’m Skye P. Griffith
 
 👀 I’m interested in: Math & Statistics; Stats Education
 
@@ -9,7 +9,7 @@
 | 📫 How to reach me | |
 | :---|:---------|
 | Email | skye.griffith@queensu.ca |
-| LinkedIn |  [Skyepaphora Griffith](https://www.linkedin.com/in/skyepaphora/) |
+| LinkedIn |  [Skye P. Griffith](https://www.linkedin.com/in/skyepaphora/) |
 
 
 <!---| Instagram | [Skyepaphora](https://www.instagram.com/skyepaphora/) |--->
