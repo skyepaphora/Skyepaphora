@@ -13,7 +13,7 @@ $\quad$
 | **Math Education** | Bored? Go check out [this project](https://www.rabbitmath.ca/), developed by my friend and colleague Peter Taylor at Queen's University. |
 |||
 | Bnuuy 🐰 | My rabbit will do anything for a goji berry. She can jump through hoops and throw batons. It's a sight to behold. |
-| Misc. | Music composition; Filmmaking; Fashion; Coffee; Roller Coasters|
+| Misc. | Music composition; $\LaTeX$; Filmmaking; Fashion; Coffee; Roller Coasters|
 
 <!---|
 | 📫 How to reach me | |
